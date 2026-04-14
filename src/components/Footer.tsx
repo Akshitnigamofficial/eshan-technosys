@@ -8,7 +8,7 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           <div className="col-span-1 lg:col-span-1">
             <Link to="/" className="text-2xl font-display font-bold flex items-center gap-2 mb-6">
-              <span className="text-white">Eshan</span>
+              <span className="text-white">Eshanom</span>
               <span className="text-brand-primary">Technosys</span>
             </Link>
             <p className="text-slate-500 leading-relaxed mb-8">
@@ -55,7 +55,7 @@ export const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-center gap-3 text-slate-500">
                 <Mail size={18} className="text-brand-primary" />
-                info@eshantechnosys.com
+                info@eshanomtechnosys.com
               </li>
               <li className="flex items-center gap-3 text-slate-500">
                 <Phone size={18} className="text-brand-primary" />
@@ -71,7 +71,7 @@ export const Footer = () => {
 
         <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-6">
           <p className="text-slate-600 text-sm">
-            © {new Date().getFullYear()} EshanTechnosys. All rights reserved.
+            © {new Date().getFullYear()} EshanomTechnosys. All rights reserved.
           </p>
           <div className="flex items-center gap-8 text-sm text-slate-600">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
