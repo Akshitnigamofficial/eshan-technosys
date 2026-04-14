@@ -36,7 +36,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="text-sm text-slate-500 uppercase tracking-wider mb-1 font-bold">Email Us</div>
-                    <div className="text-white text-lg font-medium">info@eshantechnosys.com</div>
+                    <div className="text-white text-lg font-medium">info@eshanomtechnosys.com</div>
                   </div>
                 </div>
                 <div className="flex items-center gap-6">
@@ -45,7 +45,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="text-sm text-slate-500 uppercase tracking-wider mb-1 font-bold">Call Us</div>
-                    <div className="text-white text-lg font-medium">+91 1234567890</div>
+                    <div className="text-white text-lg font-medium">+91 9589533175</div>
                   </div>
                 </div>
                 <div className="flex items-center gap-6">

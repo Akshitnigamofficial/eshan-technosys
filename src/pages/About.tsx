@@ -48,7 +48,7 @@ export default function About() {
               viewport={{ once: true }}
               className="flex-1"
             >
-              <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">About EshanTechnosys</h1>
+              <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">About Eshanom Technosys</h1>
               <p className="text-slate-400 text-lg leading-relaxed mb-8">
                 We are a premier technology company specializing in enterprise software development and infrastructure solutions. With over 15 years of experience, we've helped corporations and government agencies transform their operations through innovative technology solutions.
               </p>
