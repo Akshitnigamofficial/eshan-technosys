@@ -29,7 +29,7 @@ export const Navbar = () => {
           animate={{ opacity: 1, x: 0 }}
         >
           <Link to="/" className="text-2xl font-display font-bold flex items-center gap-2">
-            <span className="text-white">Eshanom>
+            <span className="text-white">Eshanom</span>
             <span className="text-brand-primary">Technosys</span>
           </Link>
         </motion.div>
