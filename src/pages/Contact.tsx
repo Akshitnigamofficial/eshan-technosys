@@ -15,10 +15,10 @@ export default function Contact() {
 
     emailjs
       .sendForm(
-        "service_8oaxitc",   // 🔥 replace
-        "template_o0ioesf",  // 🔥 replace
+        "service_8oaxitc",   /
+        "template_p63y2mn",  // 🔥 replace
         formRef.current,
-        "_snvG4W5mN1WXTf7b"    // 🔥 replace
+        "_snvG4W5mN1WXTf7b"    /
       )
       .then(
         () => {
